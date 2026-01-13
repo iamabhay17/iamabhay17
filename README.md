@@ -3,7 +3,7 @@
 # Hey there, I am Abhay Bhardwaj👋!
 
 I’m a MERN Developer and CS underGrad living in Uttrakhand,India.
-here are my [portfolio](https://abhay-bhardwaj.vercel.app/) and [leetcode](https://leetcode.com/iamabhay17/) links check them out.
+here are my [portfolio](https://www.abhaybhardwaj.in) and [leetcode](https://leetcode.com/iamabhay17/) links check them out.
 
 ## 🛠 Tech stuff i know 
 
